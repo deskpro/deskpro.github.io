@@ -16,7 +16,7 @@ Each release directory contains two files:
 
 * `deskpro.zip` contain the actual DeskPRO distribution.
 * `deskpro.zip.sha256` is a text file containing the sha256 checksum of the ZIP file. (Other checksums are also available in the release.json file.)
-* `release.json` contains metadata about the release, such as the date, the size, the download permalink and various checksums.
+* `release.json` is info about the release. Currently this is the same data that exists in the manifest. In future we might put other information here (such as release notes etc).
 
 ## `manifest.json`
 
