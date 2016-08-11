@@ -1,21 +1,21 @@
 {
     "releases": [
         {
-            "id": "15843.0",
-            "date": "2016-08-11 13:53:56",
+            "id": "15848.0",
+            "date": "2016-08-11 18:13:30",
             "track": "stable",
-            "commit": "30c3c230413343558e2fc2dcc01ab16aea5ef6fe",
-            "detail_url": "https://deskpro.github.io/releases/stable/2016-08/15843.0/release.json",
-            "zip_url": "https://media.githubusercontent.com/media/DeskPRO/deskpro.github.io/master/releases/stable/2016-08/15843.0/deskpro.zip",
-            "filesize": 204437611,
+            "commit": "cb462841eec926f40581edf450b2232dc600ef4b",
+            "detail_url": "https://deskpro.github.io/releases/stable/2016-08/15848.0/release.json",
+            "zip_url": "https://media.githubusercontent.com/media/DeskPRO/deskpro.github.io/master/releases/stable/2016-08/15848.0/deskpro.zip",
+            "filesize": 204438529,
             "flags": [
                 "auto_enabled"
             ],
             "checksums": {
-                "crc32": "77764f8a",
-                "md5": "a261dd98f711e06e4addd201dd93cf16",
-                "sha1": "c57ce1a733ecd4c38b3e39a71949f8840d72fc6d",
-                "sha256": "1fafdc27f96688ea744d84c548e5de338b1ffc5d4c06d0376294c66048ef88c0"
+                "crc32": "94aa5cce",
+                "md5": "ac39e3dbda44997130b1670d68cd837f",
+                "sha1": "d3b45d165039ea4855deb23b421397c13c110a52",
+                "sha256": "91aa46c4c9593a877c8070e17c06f19607ed045ab2d6fe845e56cb68b1c1f7e5"
             }
         }
     ]
