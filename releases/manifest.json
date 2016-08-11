@@ -1,39 +1,21 @@
 {
     "releases": [
         {
-            "id": "15836.0",
-            "date": "2016-08-09 16:34:33",
+            "id": "15843.0",
+            "date": "2016-08-11 13:53:56",
             "track": "stable",
-            "commit": "8cec8abee6bdac30f1c54757f4bbfed86e5bd629",
-            "detail_url": "https://deskpro.github.io/releases/stable/2016-08/15836.0/release.json",
-            "zip_url": "https://media.githubusercontent.com/media/DeskPRO/deskpro.github.io/master/releases/stable/2016-08/15836.0/deskpro.zip",
-            "filesize": 204399300,
+            "commit": "30c3c230413343558e2fc2dcc01ab16aea5ef6fe",
+            "detail_url": "https://deskpro.github.io/releases/stable/2016-08/15843.0/release.json",
+            "zip_url": "https://media.githubusercontent.com/media/DeskPRO/deskpro.github.io/master/releases/stable/2016-08/15843.0/deskpro.zip",
+            "filesize": 204437611,
             "flags": [
                 "auto_enabled"
             ],
             "checksums": {
-                "crc32": "e76dc294",
-                "md5": "22b9ffd8f317a6ce51a475c0a881985b",
-                "sha1": "0cbf1dfb7e5e671a93d420628d0c94b211eaa86a",
-                "sha256": "78c7d68f08409f428bf764348825b3b94864302071767a75f23231dc39655d26"
-            }
-        },
-        {
-            "id": "15839.0",
-            "date": "2016-08-10 14:16:00",
-            "track": "stable",
-            "commit": "d0e4a1b7c110f19e65550680305e7534a489551c",
-            "detail_url": "https://deskpro.github.io/releases/stable/2016-08/15839.0/release.json",
-            "zip_url": "https://media.githubusercontent.com/media/DeskPRO/deskpro.github.io/master/releases/stable/2016-08/15839.0/deskpro.zip",
-            "filesize": 204438669,
-            "flags": [
-                "auto_enabled"
-            ],
-            "checksums": {
-                "crc32": "e9ec141f",
-                "md5": "dbe7e8cb3a71c101811d0ce2c6ed9973",
-                "sha1": "5e6c969f0dde7198cab2801ed6ed4b4e3465fe47",
-                "sha256": "0d732220a75fc9c6cafe1c27706b2fccb027086cd7925fee61d4ffa18f199373"
+                "crc32": "77764f8a",
+                "md5": "a261dd98f711e06e4addd201dd93cf16",
+                "sha1": "c57ce1a733ecd4c38b3e39a71949f8840d72fc6d",
+                "sha256": "1fafdc27f96688ea744d84c548e5de338b1ffc5d4c06d0376294c66048ef88c0"
             }
         }
     ]
