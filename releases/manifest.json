@@ -18,6 +18,25 @@
                 "sha1": "ae28a20dc7235b82172cb8e4f0b85591af943b54",
                 "sha256": "45f431fea12bb78c4fb3bde7f51a7f03de34a3fd3196671c9f24d038053ec393"
             }
+        },
+        {
+            "id": "15865",
+            "name": "5.0.15865",
+            "date": "2016-08-15 15:50:01",
+            "track": "stable",
+            "commit": "d18b5277c0bbe85e5c9b68bf585be4d758364964",
+            "detail_url": "https://deskpro.github.io/releases/stable/2016-08/15865/release.json",
+            "zip_url": "https://media.githubusercontent.com/media/DeskPRO/deskpro.github.io/master/releases/stable/2016-08/15865/deskpro.zip",
+            "filesize": 204291383,
+            "flags": [
+                "auto_enabled"
+            ],
+            "checksums": {
+                "crc32": "6b6322f9",
+                "md5": "7673c8e23b728f2aa6165bbf3200ce4f",
+                "sha1": "7a3e27494a4a6098c5ed91eda0075255c198961c",
+                "sha256": "02b7eccab49bbc0b1a2feac68b02c70e2ffb1a8b6fc7bf2a36e41428dd680fa0"
+            }
         }
     ]
 }
