@@ -7,7 +7,9 @@
     "detail_url": "https://deskpro.github.io/releases/stable/2016-09/15931/release.json",
     "zip_url": "https://media.githubusercontent.com/media/DeskPRO/deskpro.github.io/master/releases/stable/2016-09/15931/deskpro.zip",
     "filesize": 208917578,
-    "flags": [],
+    "flags": [
+                "auto_enabled"
+            ],
     "checksums": {
         "crc32": "78f13488",
         "md5": "56dc9a636b89805edd2ce04ab781c4ac",
