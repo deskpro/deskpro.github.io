@@ -474,6 +474,25 @@
                 "sha1": "118e8cac790f99cf200843d79768d6c0908ab149",
                 "sha256": "9566d5f6fbd4c3d4e41916af96fc28208d31eaadf5a8a073d68bde1bee5d7f66"
             }
+        },
+        {
+            "id": "19543",
+            "name": "5.2.3.19543",
+            "date": "2016-12-14 13:52:47",
+            "track": "stable",
+            "commit": "453f8607004914b4362347f270c8ad46d42634fb",
+            "detail_url": "https://deskpro.github.io/releases/stable/2016-12/19543/release.json",
+            "zip_url": "https://media.githubusercontent.com/media/DeskPRO/deskpro.github.io/master/releases/stable/2016-12/19543/deskpro.zip",
+            "filesize": 195740101,
+            "flags": [
+                "auto_enabled"
+            ],
+            "checksums": {
+                "crc32": "3afc36b2",
+                "md5": "e4ffc839ef96e771d1ca50a965550e58",
+                "sha1": "d0eac63fac8b6913814ef9b211b1d920d4bfbbbb",
+                "sha256": "93df1fa1554811cf76e1837bdbb4fa1447ee58fa409c964938ea19e684c1bb4f"
+            }
         }
     ]
 }
