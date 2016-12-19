@@ -1,0 +1,19 @@
+{
+    "id": "19794",
+    "name": "5.2.5.19794",
+    "date": "2016-12-19 14:30:33",
+    "track": "stable",
+    "commit": "a8abfa8eb9dd76df74a017917099814f16825110",
+    "detail_url": "https://deskpro.github.io/releases/stable/2016-12/19794/release.json",
+    "zip_url": "https://media.githubusercontent.com/media/DeskPRO/deskpro.github.io/master/releases/stable/2016-12/19794/deskpro.zip",
+    "filesize": 195733750,
+    "flags": [
+        "auto_enabled"
+    ],
+    "checksums": {
+        "crc32": "223ebf37",
+        "md5": "8450255bf2651f1fcb037c756c27e53a",
+        "sha1": "5a391b1913bc6253209622cf7b4c33b255ad5cf7",
+        "sha256": "f52db3a19fcce91ef66caa3d81f9eb89024bbfa0243ceabd252fe9f8c380bbc4"
+    }
+}
