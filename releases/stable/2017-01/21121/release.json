@@ -1,0 +1,19 @@
+{
+    "id": "21121",
+    "name": "5.3.1.21121",
+    "date": "2017-01-18 16:19:48",
+    "track": "stable",
+    "commit": "8d505244531bf5befa2d0c208e46bcae43376f3c",
+    "detail_url": "https://deskpro.github.io/releases/stable/2017-01/21121/release.json",
+    "zip_url": "https://media.githubusercontent.com/media/DeskPRO/deskpro.github.io/master/releases/stable/2017-01/21121/deskpro.zip",
+    "filesize": 201419615,
+    "flags": [
+        "auto_enabled"
+    ],
+    "checksums": {
+        "crc32": "421a7b7",
+        "md5": "15ba1ac30bb855a716e051ba0159b934",
+        "sha1": "330a87f6862a3c665abb447d2d01497c2097c170",
+        "sha256": "01df3f15ab5b98b47dddfacdc81204eadd1684a69328dcdc647db57da09f60cc"
+    }
+}
