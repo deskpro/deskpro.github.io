@@ -1,0 +1,19 @@
+{
+    "id": "21504",
+    "name": "5.4.1.21504",
+    "date": "2017-02-01 11:23:22",
+    "track": "stable",
+    "commit": "cca4d097a10cd5f886b0b1bc02c2862384d5b03d",
+    "detail_url": "https://deskpro.github.io/releases/stable/2017-02/21504/release.json",
+    "zip_url": "https://media.githubusercontent.com/media/DeskPRO/deskpro.github.io/master/releases/stable/2017-02/21504/deskpro.zip",
+    "filesize": 201657265,
+    "flags": [
+        "auto_enabled"
+    ],
+    "checksums": {
+        "crc32": "5883d942",
+        "md5": "8ae079bf901d99ceb60d7390166503d5",
+        "sha1": "bbeacce32b46dbba10099bd280dfd899614cb2bb",
+        "sha256": "14303167dca00711f9d57bc9ef700f6431624724d69f42c5519e8fa52db49151"
+    }
+}
