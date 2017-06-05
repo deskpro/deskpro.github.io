@@ -2,6 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
+    <meta name="ROBOTS" content="NOINDEX, NOFOLLOW">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>DeskPRO Releases</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
@@ -61,7 +62,7 @@
           <label class="col-sm-2 col-form-label">Version:</label>
           <div class="col-sm-10">
             <p class="form-control-static">
-              <a href="{{release.zip_url}}">{{release.name}}</a>
+              <a rel="nofollow" href="{{release.zip_url}}">{{release.name}}</a>
             </p>
           </div>
         </div>
@@ -114,7 +115,7 @@
     <script id="rowTpl" type="text/x-handlebars-template">
       <tr>
         <td>
-          <a href="{{release.zip_url}}">{{release.name}}</a>
+          <a rel="nofollow" href="{{release.zip_url}}">{{release.name}}</a>
           {{#if isCurrent}}
             <span class="badge badge-pill badge-primary">Latest</span>
           {{/if}}
