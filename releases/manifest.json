@@ -873,6 +873,25 @@
                 "sha1": "e378e3eb1e5ccc2af29f953e98cbadfa221f6275",
                 "sha256": "a9c9098cde580b20f79e0796bb07f87fff320fe5e4b75aa562a4a0abcb4cc1d9"
             }
+        },
+        {
+            "id": "27199",
+            "name": "5.6.1.27199",
+            "date": "2017-06-05 13:54:28",
+            "track": "stable",
+            "commit": "3cb744cc37284350cc6239c7e99db51f980d69ad",
+            "detail_url": "https://deskpro.github.io/releases/stable/2017-06/27199/release.json",
+            "zip_url": "https://media.githubusercontent.com/media/DeskPRO/deskpro.github.io/master/releases/stable/2017-06/27199/deskpro.zip",
+            "filesize": 215507709,
+            "flags": [
+                "auto_enabled"
+            ],
+            "checksums": {
+                "crc32": "d55ce1d3",
+                "md5": "0828f17d5210ec41218c25e98f089b0b",
+                "sha1": "8b30747643f7da4913701d6e0d244b26d39c4e66",
+                "sha256": "b591208b1f96d80cd8e55acaf46908e338a2a565c6b08a71493e6408970dfce4"
+            }
         }
     ]
 }
