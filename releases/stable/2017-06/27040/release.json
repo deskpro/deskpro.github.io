@@ -1,0 +1,19 @@
+{
+    "id": "27040",
+    "name": "5.6.1.27040",
+    "date": "2017-06-02 12:13:25",
+    "track": "stable",
+    "commit": "083c9c832588437889d95a394503695f941d39b1",
+    "detail_url": "https://deskpro.github.io/releases/stable/2017-06/27040/release.json",
+    "zip_url": "https://media.githubusercontent.com/media/DeskPRO/deskpro.github.io/master/releases/stable/2017-06/27040/deskpro.zip",
+    "filesize": 215506991,
+    "flags": [
+        "auto_enabled"
+    ],
+    "checksums": {
+        "crc32": "3822a22a",
+        "md5": "3031028ec0ed86c0629b05d7f0f28e95",
+        "sha1": "850e68003e3b61a820d1e1f0121b136d76a10a42",
+        "sha256": "02749e6295c93f2e3fad27226142f5c374b0250e1268e5b9056670e5e7045f13"
+    }
+}
