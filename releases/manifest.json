@@ -881,7 +881,7 @@
             "track": "stable",
             "commit": "3cb744cc37284350cc6239c7e99db51f980d69ad",
             "detail_url": "https://deskpro.github.io/releases/stable/2017-06/27199/release.json",
-            "zip_url": "https://media.githubusercontent.com/media/DeskPRO/deskpro.github.io/master/releases/stable/2017-06/27199/deskpro.zip",
+            "zip_url": "https://www.deskpro.com/deskpro.zip",
             "filesize": 215507709,
             "flags": [
                 "auto_enabled"
