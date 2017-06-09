@@ -387,7 +387,7 @@
             "track": "stable",
             "commit": "ddde03f985e9d09dd948f599a2063b5bc9f5e6fa",
             "detail_url": "https://deskpro.github.io/releases/stable/2016-11/17655/release.json",
-            "zip_url": "https://media.githubusercontent.com/media/DeskPRO/deskpro.github.io/master/releases/stable/2016-11/17655/deskpro.zip",
+            "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/5.1.4.17655/deskpro.zip",
             "filesize": 209976619,
             "flags": [
                 "auto_enabled"
@@ -406,7 +406,7 @@
             "track": "stable",
             "commit": "51bef6649e0f9911dcff098ed385345fc86a6ded",
             "detail_url": "https://deskpro.github.io/releases/stable/2016-12/19173/release.json",
-            "zip_url": "https://media.githubusercontent.com/media/DeskPRO/deskpro.github.io/master/releases/stable/2016-12/19173/deskpro.zip",
+            "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/5.2.0.19173/deskpro.zip",
             "filesize": 190531218,
             "flags": [
                 "auto_enabled"
@@ -425,7 +425,7 @@
             "track": "stable",
             "commit": "127b49580902853e7152278ef173eb8737e4bd93",
             "detail_url": "https://deskpro.github.io/releases/stable/2016-12/19192/release.json",
-            "zip_url": "https://media.githubusercontent.com/media/DeskPRO/deskpro.github.io/master/releases/stable/2016-12/19192/deskpro.zip",
+            "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/5.2.0.19192/deskpro.zip",
             "filesize": 190531564,
             "flags": [
                 "auto_enabled"
@@ -444,7 +444,7 @@
             "track": "stable",
             "commit": "bc9e1dea81bf381651c8273e34732d7a05da2f2f",
             "detail_url": "https://deskpro.github.io/releases/stable/2016-12/19240/release.json",
-            "zip_url": "https://media.githubusercontent.com/media/DeskPRO/deskpro.github.io/master/releases/stable/2016-12/19240/deskpro.zip",
+            "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/5.2.1.19240/deskpro.zip",
             "filesize": 190534375,
             "flags": [
                 "auto_enabled"
@@ -482,7 +482,7 @@
             "track": "stable",
             "commit": "453f8607004914b4362347f270c8ad46d42634fb",
             "detail_url": "https://deskpro.github.io/releases/stable/2016-12/19543/release.json",
-            "zip_url": "https://media.githubusercontent.com/media/DeskPRO/deskpro.github.io/master/releases/stable/2016-12/19543/deskpro.zip",
+            "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/5.2.3.19543/deskpro.zip",
             "filesize": 195740101,
             "flags": [
                 "auto_enabled"
@@ -501,7 +501,7 @@
             "track": "stable",
             "commit": "eb760443c42832f10ca637a800d4f27c7cd89b9e",
             "detail_url": "https://deskpro.github.io/releases/stable/2016-12/19591/release.json",
-            "zip_url": "https://media.githubusercontent.com/media/DeskPRO/deskpro.github.io/master/releases/stable/2016-12/19591/deskpro.zip",
+            "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/5.2.4.19591/deskpro.zip",
             "filesize": 195712684,
             "flags": [
                 "auto_enabled"
@@ -520,7 +520,7 @@
             "track": "stable",
             "commit": "a8abfa8eb9dd76df74a017917099814f16825110",
             "detail_url": "https://deskpro.github.io/releases/stable/2016-12/19794/release.json",
-            "zip_url": "https://media.githubusercontent.com/media/DeskPRO/deskpro.github.io/master/releases/stable/2016-12/19794/deskpro.zip",
+            "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/5.2.5.19794/deskpro.zip",
             "filesize": 195733750,
             "flags": [
                 "auto_enabled"
@@ -539,7 +539,7 @@
             "track": "stable",
             "commit": "aab18073f183ae6827f9dade75cfc667f55022f4",
             "detail_url": "https://deskpro.github.io/releases/stable/2017-01/21119/release.json",
-            "zip_url": "https://media.githubusercontent.com/media/DeskPRO/deskpro.github.io/master/releases/stable/2017-01/21119/deskpro.zip",
+            "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/5.3.0.21119/deskpro.zip",
             "filesize": 201408436,
             "flags": [
                 "auto_enabled"
@@ -558,7 +558,7 @@
             "track": "stable",
             "commit": "8d505244531bf5befa2d0c208e46bcae43376f3c",
             "detail_url": "https://deskpro.github.io/releases/stable/2017-01/21121/release.json",
-            "zip_url": "https://media.githubusercontent.com/media/DeskPRO/deskpro.github.io/master/releases/stable/2017-01/21121/deskpro.zip",
+            "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/5.3.1.21121/deskpro.zip",
             "filesize": 201419615,
             "flags": [
                 "auto_enabled"
@@ -577,7 +577,7 @@
             "track": "stable",
             "commit": "fdacc99b827aab3e4d06265bf1269359d357cd8a",
             "detail_url": "https://deskpro.github.io/releases/stable/2017-01/21124/release.json",
-            "zip_url": "https://media.githubusercontent.com/media/DeskPRO/deskpro.github.io/master/releases/stable/2017-01/21124/deskpro.zip",
+            "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/5.3.2.21124/deskpro.zip",
             "filesize": 201420076,
             "flags": [
                 "auto_enabled"
@@ -596,7 +596,7 @@
             "track": "stable",
             "commit": "cac7d0cf8126c88a3212c92e320f01907121bb9b",
             "detail_url": "https://deskpro.github.io/releases/stable/2017-01/21448/release.json",
-            "zip_url": "https://media.githubusercontent.com/media/DeskPRO/deskpro.github.io/master/releases/stable/2017-01/21448/deskpro.zip",
+            "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/5.4.0.21448/deskpro.zip",
             "filesize": 201647160,
             "flags": [
                 "auto_enabled"
@@ -615,7 +615,7 @@
             "track": "stable",
             "commit": "cca4d097a10cd5f886b0b1bc02c2862384d5b03d",
             "detail_url": "https://deskpro.github.io/releases/stable/2017-02/21504/release.json",
-            "zip_url": "https://media.githubusercontent.com/media/DeskPRO/deskpro.github.io/master/releases/stable/2017-02/21504/deskpro.zip",
+            "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/5.4.1.21504/deskpro.zip",
             "filesize": 201657265,
             "flags": [
                 "auto_enabled"
@@ -634,7 +634,7 @@
             "track": "stable",
             "commit": "ce2a27483e76da17a8a9a2a7687eb38c5a03e443",
             "detail_url": "https://deskpro.github.io/releases/stable/2017-02/21505/release.json",
-            "zip_url": "https://media.githubusercontent.com/media/DeskPRO/deskpro.github.io/master/releases/stable/2017-02/21505/deskpro.zip",
+            "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/5.4.1.21505/deskpro.zip",
             "filesize": 201656595,
             "flags": [
                 "auto_enabled"
@@ -653,7 +653,7 @@
             "track": "stable",
             "commit": "90e094b56c26d8b0455e87eecf62d8faf653fd3c",
             "detail_url": "https://deskpro.github.io/releases/stable/2017-03/23035/release.json",
-            "zip_url": "https://media.githubusercontent.com/media/DeskPRO/deskpro.github.io/master/releases/stable/2017-03/23035/deskpro.zip",
+            "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/5.5.0.23035/deskpro.zip",
             "filesize": 206593332,
             "flags": [
                 "auto_enabled"
@@ -672,7 +672,7 @@
             "track": "stable",
             "commit": "0d6dc649e1a7718b1683bb73ffde8e0907a62373",
             "detail_url": "https://deskpro.github.io/releases/stable/2017-03/23061/release.json",
-            "zip_url": "https://media.githubusercontent.com/media/DeskPRO/deskpro.github.io/master/releases/stable/2017-03/23061/deskpro.zip",
+            "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/5.5.1.23061/deskpro.zip",
             "filesize": 210883116,
             "flags": [
                 "auto_enabled"
@@ -691,7 +691,7 @@
             "track": "stable",
             "commit": "4b36e37f83430be71f945bbcff3e65e348b4f91b",
             "detail_url": "https://deskpro.github.io/releases/stable/2017-03/23558/release.json",
-            "zip_url": "https://media.githubusercontent.com/media/DeskPRO/deskpro.github.io/master/releases/stable/2017-03/23558/deskpro.zip",
+            "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/5.5.2.23558/deskpro.zip",
             "filesize": 211245610,
             "flags": [
                 "auto_enabled"
@@ -710,7 +710,7 @@
             "track": "stable",
             "commit": "4c5da17dbeef63e92261579658592eb16c83e784",
             "detail_url": "https://deskpro.github.io/releases/stable/2017-04/24133/release.json",
-            "zip_url": "https://media.githubusercontent.com/media/DeskPRO/deskpro.github.io/master/releases/stable/2017-04/24133/deskpro.zip",
+            "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/5.5.3.24133/deskpro.zip",
             "filesize": 211253701,
             "flags": [
                 "auto_enabled"
@@ -729,7 +729,7 @@
             "track": "stable",
             "commit": "5f0c72ac93f15b37db14bcb9095078e083384aab",
             "detail_url": "https://deskpro.github.io/releases/stable/2017-04/24224/release.json",
-            "zip_url": "https://media.githubusercontent.com/media/DeskPRO/deskpro.github.io/master/releases/stable/2017-04/24224/deskpro.zip",
+            "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/5.5.3.24224/deskpro.zip",
             "filesize": 211258439,
             "flags": [
                 "auto_enabled"
@@ -748,7 +748,7 @@
             "track": "stable",
             "commit": "f31a186f1de009b3c6221d80eafe75e80e56390b",
             "detail_url": "https://deskpro.github.io/releases/stable/2017-04/24289/release.json",
-            "zip_url": "https://media.githubusercontent.com/media/DeskPRO/deskpro.github.io/master/releases/stable/2017-04/24289/deskpro.zip",
+            "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/5.5.4.24289/deskpro.zip",
             "filesize": 210765787,
             "flags": [
                 "auto_enabled"
@@ -767,7 +767,7 @@
             "track": "stable",
             "commit": "29f502a50f4f270e3f1de0410184c0f903d65462",
             "detail_url": "https://deskpro.github.io/releases/stable/2017-04/25006/release.json",
-            "zip_url": "https://media.githubusercontent.com/media/DeskPRO/deskpro.github.io/master/releases/stable/2017-04/25006/deskpro.zip",
+            "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/5.5.5.25006/deskpro.zip",
             "filesize": 212150059,
             "flags": [
                 "auto_enabled"
@@ -786,7 +786,7 @@
             "track": "stable",
             "commit": "d9851c637e6e93755608caa74fa77a8914163c9b",
             "detail_url": "https://deskpro.github.io/releases/stable/2017-04/25136/release.json",
-            "zip_url": "https://media.githubusercontent.com/media/DeskPRO/deskpro.github.io/master/releases/stable/2017-04/25136/deskpro.zip",
+            "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/5.5.5.25136/deskpro.zip",
             "filesize": 212150090,
             "flags": [
                 "auto_enabled"
@@ -805,7 +805,7 @@
             "track": "stable",
             "commit": "2ef9c3fd89d45d8af59239aabe69fc58f8e627bb",
             "detail_url": "https://deskpro.github.io/releases/stable/2017-05/25206/release.json",
-            "zip_url": "https://media.githubusercontent.com/media/DeskPRO/deskpro.github.io/master/releases/stable/2017-05/25206/deskpro.zip",
+            "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/5.5.6.25206/deskpro.zip",
             "filesize": 212096716,
             "flags": [
                 "auto_enabled"
@@ -824,7 +824,7 @@
             "track": "stable",
             "commit": "4345babfbca1da0506b861b1a449b53a66bee180",
             "detail_url": "https://deskpro.github.io/releases/stable/2017-05/25473/release.json",
-            "zip_url": "https://media.githubusercontent.com/media/DeskPRO/deskpro.github.io/master/releases/stable/2017-05/25473/deskpro.zip",
+            "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/5.5.7.25473/deskpro.zip",
             "filesize": 212097774,
             "flags": [
                 "auto_enabled"
@@ -843,7 +843,7 @@
             "track": "stable",
             "commit": "e264fc99a3ee3a1f81845451bc44e84cadbc3c8d",
             "detail_url": "https://deskpro.github.io/releases/stable/2017-05/26876/release.json",
-            "zip_url": "https://media.githubusercontent.com/media/DeskPRO/deskpro.github.io/master/releases/stable/2017-05/26876/deskpro.zip",
+            "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/5.6.0.26876/deskpro.zip",
             "filesize": 215498163,
             "flags": [
                 "auto_enabled"
@@ -862,7 +862,7 @@
             "track": "stable",
             "commit": "70275b2d1a8c6e08b4d8a78a973396c79a4de704",
             "detail_url": "https://deskpro.github.io/releases/stable/2017-06/26948/release.json",
-            "zip_url": "https://media.githubusercontent.com/media/DeskPRO/deskpro.github.io/master/releases/stable/2017-06/26948/deskpro.zip",
+            "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/5.6.0.26948/deskpro.zip",
             "filesize": 215497682,
             "flags": [
                 "auto_enabled"
@@ -881,7 +881,7 @@
             "track": "stable",
             "commit": "3cb744cc37284350cc6239c7e99db51f980d69ad",
             "detail_url": "https://deskpro.github.io/releases/stable/2017-06/27199/release.json",
-            "zip_url": "https://www.deskpro.com/deskpro.zip",
+            "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/5.6.1.27199/deskpro.zip",
             "filesize": 215507709,
             "flags": [
                 "auto_enabled"
