@@ -5,7 +5,7 @@
     "track": "stable",
     "commit": "cca4d097a10cd5f886b0b1bc02c2862384d5b03d",
     "detail_url": "https://deskpro.github.io/releases/stable/2017-02/21504/release.json",
-    "zip_url": "https://media.githubusercontent.com/media/DeskPRO/deskpro.github.io/master/releases/stable/2017-02/21504/deskpro.zip",
+    "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/5.4.1.21504/deskpro.zip",
     "filesize": 201657265,
     "flags": [
         "auto_enabled"
