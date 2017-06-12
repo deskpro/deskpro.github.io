@@ -5,11 +5,11 @@
     "track": "stable",
     "commit": "0babe5087b4056acbbf656a54e0dc9c55ebde083",
     "detail_url": "https://deskpro.github.io/releases/stable/2016-09/15938/release.json",
-    "zip_url": "https://media.githubusercontent.com/media/DeskPRO/deskpro.github.io/master/releases/stable/2016-09/15938/deskpro.zip",
+    "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/5.0.1.15938/deskpro.zip",
     "filesize": 208930666,
     "flags": [
-                "auto_enabled"
-            ],
+        "auto_enabled"
+    ],
     "checksums": {
         "crc32": "6935d304",
         "md5": "0b2b86d721f5b0f76a7b4d3ba874d5bf",
