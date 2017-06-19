@@ -1,0 +1,19 @@
+{
+    "id": "27928",
+    "name": "5.6.4.27928",
+    "date": "2017-06-19 09:52:57",
+    "track": "stable",
+    "commit": "83263a1fc50dc7323fef69b70b23986148b7123c",
+    "detail_url": "https://deskpro.github.io/releases/stable/2017-06/27928/release.json",
+    "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/5.6.4.27928/deskpro.zip",
+    "filesize": 215162056,
+    "flags": [
+        "auto_enabled"
+    ],
+    "checksums": {
+        "crc32": "ab6b2360",
+        "md5": "43e2947c929f3c7bbff29f85c5f586a6",
+        "sha1": "9aa8f28a51c25e9380b70553d3b2ce356b86fe23",
+        "sha256": "81f951d4bcf3fb5e9a9e6a89e412d5985185520bbaafc3c9b6d91376c6ab895e"
+    }
+}
