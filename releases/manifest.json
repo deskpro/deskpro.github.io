@@ -1006,6 +1006,25 @@
                 "sha1": "3fe62a706aaa441812462577a9ddb8bf9c2eaa2c",
                 "sha256": "23bd834453c12eefb2bac13fc8ad1bd5a2891e3ac31ab1d300fcde40f4802d4c"
             }
+        },
+        {
+            "id": "28634",
+            "name": "5.8.0.28634",
+            "date": "2017-07-18 15:04:41",
+            "track": "stable",
+            "commit": "cba45b34fd9a5949038bd6a6e153944d65cc0df9",
+            "detail_url": "https://deskpro.github.io/releases/stable/2017-07/28634/release.json",
+            "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/5.8.0.28634/deskpro.zip",
+            "filesize": 217384578,
+            "flags": [
+                "auto_enabled"
+            ],
+            "checksums": {
+                "crc32": "fa42b9e0",
+                "md5": "58059dcac00350cac8fccc1ef55987a4",
+                "sha1": "3c4be45b273ed0d80450381ee662f342d6bae5a0",
+                "sha256": "fb48a61ed8c6b9ea6ec1e1fee133f7a12fba6a6e979dfc50d07a00eafbcc3279"
+            }
         }
     ]
 }
