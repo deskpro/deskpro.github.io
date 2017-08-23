@@ -1,0 +1,19 @@
+{
+    "id": "30456",
+    "name": "5.9.0.30456",
+    "date": "2017-08-23 14:33:36",
+    "track": "stable",
+    "commit": "9fe9caac940f995e5547ef0e90b010f4f6269d3d",
+    "detail_url": "https://deskpro.github.io/releases/stable/2017-08/30456/release.json",
+    "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/5.9.0.30456/deskpro.zip",
+    "filesize": 217092002,
+    "flags": [
+        "auto_enabled"
+    ],
+    "checksums": {
+        "crc32": "26d38868",
+        "md5": "2be85dfc5d524c20584b962365801488",
+        "sha1": "d9d18011ba926c5ffcff47bb3794749f825fd986",
+        "sha256": "87b011e322c4707db9ee3b49f3125258b557f6b1dfaa894151a0245a4b08c8fb"
+    }
+}
