@@ -1,0 +1,19 @@
+{
+    "id": "30735",
+    "name": "30735",
+    "date": "2017-08-29 13:50:15",
+    "track": "stable",
+    "commit": "46b1df6c36c8e029d52d4b28f7c776eba26efbda",
+    "detail_url": "https://deskpro.github.io/releases/stable/2017-08/30735/release.json",
+    "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/30735/deskpro.zip",
+    "filesize": 217094900,
+    "flags": [
+        "auto_enabled"
+    ],
+    "checksums": {
+        "crc32": "7bef1f4a",
+        "md5": "82bb3b93aea21412764b0bdae9c136b0",
+        "sha1": "e2c09e395a2b8dee3102c0cf4058122c49c00e08",
+        "sha256": "b92a0be8b4bfe429b6d06db45df61123061e750e8e113be995deb4f76aa5bfc9"
+    }
+}
