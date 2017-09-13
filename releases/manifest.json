@@ -1177,6 +1177,25 @@
                 "sha1": "9fb19c811aa34dc42599e2e1e1343c79bfdbde43",
                 "sha256": "322eb56541e59d167b8514f3f91323d5400c35e4f7b857df9c63cfb20f9c0e8d"
             }
+        },
+        {
+            "id": "30921",
+            "name": "5.10.2.30921",
+            "date": "2017-09-13 09:38:13",
+            "track": "stable",
+            "commit": "83f88d433d8ca4df0ce9779c5b5b698542511185",
+            "detail_url": "https://deskpro.github.io/releases/stable/2017-09/30921/release.json",
+            "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/5.10.2.30921/deskpro.zip",
+            "filesize": 217211611,
+            "flags": [
+                "auto_enabled"
+            ],
+            "checksums": {
+                "crc32": "5624b217",
+                "md5": "ff933900e199d12ee05f25259ac4f07e",
+                "sha1": "820cf3c32a3bed353538f2fa79ceb17130d1831f",
+                "sha256": "6ebb76eb9fe68f32a91ecdcaba5f8e7084cbb3e87cde5291c2a547dc1c8cd2c2"
+            }
         }
     ]
 }
