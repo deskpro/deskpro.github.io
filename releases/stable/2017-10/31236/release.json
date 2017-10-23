@@ -1,0 +1,19 @@
+{
+    "id": "31236",
+    "name": "5.11.0.31236",
+    "date": "2017-10-23 12:14:41",
+    "track": "stable",
+    "commit": "1cc164a50589f1ef42b5f150bd9ad97900f7c5de",
+    "detail_url": "https://deskpro.github.io/releases/stable/2017-10/31236/release.json",
+    "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/5.11.0.31236/deskpro.zip",
+    "filesize": 215909208,
+    "flags": [
+        "auto_enabled"
+    ],
+    "checksums": {
+        "crc32": "c400689a",
+        "md5": "30f1b8c1432e63a832a680388bb47dbf",
+        "sha1": "c303a520bccd64a536fcff5625cddd1e66d59865",
+        "sha256": "1e9e7d75924035176f88e4820e458836168a490a1c60b5446c209364914898d6"
+    }
+}
