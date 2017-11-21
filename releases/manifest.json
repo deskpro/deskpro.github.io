@@ -1348,6 +1348,25 @@
                 "sha1": "76dea4fc9bba865095dcda1404c794d7e411d769",
                 "sha256": "cf7505ac0a17e364dbed5a1f825bc816ce75a4802ac7314280a2f49f6a11f1b7"
             }
+        },
+        {
+            "id": "31547",
+            "name": "5.12.1.31547",
+            "date": "2017-11-21 12:13:01",
+            "track": "stable",
+            "commit": "652c111da04639a7da16cdc54ba8afc529ac2a9e",
+            "detail_url": "https://deskpro.github.io/releases/stable/2017-11/31547/release.json",
+            "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/5.12.1.31547/deskpro.zip",
+            "filesize": 218624009,
+            "flags": [
+                "auto_enabled"
+            ],
+            "checksums": {
+                "crc32": "ccc565d2",
+                "md5": "4f7a8466ffa9255c0fc39f8f134bf8f0",
+                "sha1": "b1ee545c93a50ff6dc5cd2f5f729fe6d7fd64612",
+                "sha256": "b1d01522d63fd283558292d7b88715b6b39ed96f16070caf0e59b49217ea8d99"
+            }
         }
     ]
 }
