@@ -1,0 +1,19 @@
+{
+    "id": "31862",
+    "name": "5.14.1.0.31862",
+    "date": "2017-12-21 09:13:48",
+    "track": "stable",
+    "commit": "8fcda56832f48d8ebf525ecb35319db730d28513",
+    "detail_url": "https://deskpro.github.io/releases/stable/2017-12/31862/release.json",
+    "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/5.14.1.0.31862/deskpro.zip",
+    "filesize": 225503853,
+    "flags": [
+        "auto_enabled"
+    ],
+    "checksums": {
+        "crc32": "cf369e5",
+        "md5": "40754fb759381cb61a8ab4feafba7568",
+        "sha1": "8a57f433a7d353acb6ceb4e038b4f881e93b9079",
+        "sha256": "2bed174d25118dcbebe6d392aa8243408eac22adb4c12eab58b1fd8ccbf7d098"
+    }
+}
