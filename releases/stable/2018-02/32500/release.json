@@ -1,0 +1,19 @@
+{
+    "id": "32500",
+    "name": "5.15.1.32500",
+    "date": "2018-02-20 09:32:49",
+    "track": "stable",
+    "commit": "2e030148744e99097543a861da2da6cefdd26378",
+    "detail_url": "https://deskpro.github.io/releases/stable/2018-02/32500/release.json",
+    "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/5.15.1.32500/deskpro.zip",
+    "filesize": 233248533,
+    "flags": [
+        "auto_enabled"
+    ],
+    "checksums": {
+        "crc32": "d4384a0b",
+        "md5": "aa34464a691dc4719966fbe068f91e31",
+        "sha1": "5fbb322763da69653f046529b3871a27a63658d6",
+        "sha256": "454c59fbb600cbe5d5ce8f00f206a52c075fcb22d8fe6d7afa630b0e75d52559"
+    }
+}
