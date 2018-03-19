@@ -1,0 +1,19 @@
+{
+    "id": "32868",
+    "name": "5.16.0.32868",
+    "date": "2018-03-19 13:13:07",
+    "track": "stable",
+    "commit": "9ba0bda40ceccddef8c2b1d238d4ed48c238abc4",
+    "detail_url": "https://deskpro.github.io/releases/stable/2018-03/32868/release.json",
+    "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/5.16.0.32868/deskpro.zip",
+    "filesize": 204887628,
+    "flags": [
+        "auto_enabled"
+    ],
+    "checksums": {
+        "crc32": "19b195e4",
+        "md5": "226b30b3d88c80b8af01f7b5d284b259",
+        "sha1": "3668408857e3f8fe62e35f629c43d017fe4cccba",
+        "sha256": "549715107279ab54ce82cd381f91213d6da2c5442492fbd151c5f96764e79008"
+    }
+}
