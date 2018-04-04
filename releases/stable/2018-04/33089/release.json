@@ -1,0 +1,19 @@
+{
+    "id": "33089",
+    "name": "5.16.1.33089",
+    "date": "2018-04-04 16:22:44",
+    "track": "stable",
+    "commit": "5fb8071377255ff0bccb713672eb2d470077fc27",
+    "detail_url": "https://deskpro.github.io/releases/stable/2018-04/33089/release.json",
+    "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/5.16.1.33089/deskpro.zip",
+    "filesize": 205076504,
+    "flags": [
+        "auto_enabled"
+    ],
+    "checksums": {
+        "crc32": "57dacbb4",
+        "md5": "c42192effccec5b8173fdc9539c4d3ef",
+        "sha1": "48682c1c35678c5147562a88bca6b01fc5ca6c35",
+        "sha256": "2d94493a0126a38696d2e21e4651c2e99f845434ff29180a7b33a3b9cf38f7df"
+    }
+}
