@@ -1690,6 +1690,25 @@
                 "sha1": "48682c1c35678c5147562a88bca6b01fc5ca6c35",
                 "sha256": "2d94493a0126a38696d2e21e4651c2e99f845434ff29180a7b33a3b9cf38f7df"
             }
+        },
+        {
+            "id": "33098",
+            "name": "5.16.2.33098",
+            "date": "2018-04-05 09:34:56",
+            "track": "stable",
+            "commit": "29c06597bbfc87b6c8d9e1001ee5663c0c6d3db5",
+            "detail_url": "https://deskpro.github.io/releases/stable/2018-04/33098/release.json",
+            "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/5.16.2.33098/deskpro.zip",
+            "filesize": 205076404,
+            "flags": [
+                "auto_enabled"
+            ],
+            "checksums": {
+                "crc32": "1e46a0e8",
+                "md5": "224a8f23f6673f0227e10abc6125bd93",
+                "sha1": "c7d822aa3e0d1bb5e565fa46e97dcc771493e736",
+                "sha256": "92317181e9df1b4a6d8fc846cf576c7a897e6f2ee96065c2a50d9f8b10f2d9f3"
+            }
         }
     ]
 }
