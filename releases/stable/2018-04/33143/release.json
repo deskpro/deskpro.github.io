@@ -1,0 +1,19 @@
+{
+    "id": "33143",
+    "name": "5.16.2.33143",
+    "date": "2018-04-09 10:10:46",
+    "track": "stable",
+    "commit": "d9c3d0634bbc32ae1683331521074760d2b550c9",
+    "detail_url": "https://deskpro.github.io/releases/stable/2018-04/33143/release.json",
+    "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/5.16.2.33143/deskpro.zip",
+    "filesize": 205077082,
+    "flags": [
+        "auto_enabled"
+    ],
+    "checksums": {
+        "crc32": "323c738e",
+        "md5": "bc3f192f215fd65478a16deb3fce928b",
+        "sha1": "5489db8ebe44959b74beaece2ee1fe1478fb22a1",
+        "sha256": "317bbac41460a0a647098da99b96c48ac51fbcd12a6adfd8f85757a9b07c62bd"
+    }
+}
