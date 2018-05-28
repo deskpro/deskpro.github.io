@@ -1,0 +1,19 @@
+{
+    "id": "33869",
+    "name": "2018.1.2.33869",
+    "date": "2018-05-28 10:17:41",
+    "track": "stable",
+    "commit": "536ffe25e00dff68c369d04fe6d9724a716162c1",
+    "detail_url": "https://deskpro.github.io/releases/stable/2018-05/33869/release.json",
+    "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/2018.1.2.33869/deskpro.zip",
+    "filesize": 205760599,
+    "flags": [
+        "auto_enabled"
+    ],
+    "checksums": {
+        "crc32": "6445afed",
+        "md5": "f4bb7abd1384898d2be6085f67ad7585",
+        "sha1": "7ad04e9147edbbaf03369f6017e721a70e1c98ed",
+        "sha256": "db541693c7e0d39bdff4ea055882ed26cc167246bfc844d20e1a7365ca2dceb0"
+    }
+}
