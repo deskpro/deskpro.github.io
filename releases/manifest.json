@@ -1861,6 +1861,25 @@
                 "sha1": "35d66c7f8cbb0ec46144e1e4da52939813226d9a",
                 "sha256": "77e525bc1e2e540ec452cefe1d633ecc53fb0e3389e83b3f4e801a6882549823"
             }
+        },
+        {
+            "id": "34580",
+            "name": "2018.2.34580",
+            "date": "2018-07-18 15:12:50",
+            "track": "stable",
+            "commit": "44cb3aed808fc5e5c81a381d643f3a9ed602c9ce",
+            "detail_url": "https://deskpro.github.io/releases/stable/2018-07/34580/release.json",
+            "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/2018.2.34580/deskpro.zip",
+            "filesize": 218355872,
+            "flags": [
+                "auto_enabled"
+            ],
+            "checksums": {
+                "crc32": "ba097996",
+                "md5": "624c1a756480c68bafdcacfa5771f1ef",
+                "sha1": "77b956ee697220da671ad01f71f6d2628ae9e8f8",
+                "sha256": "3534750ef3e59e575a84c80f724c2b39bbf986e48d92cecedf0abc34d40445ee"
+            }
         }
     ]
 }
