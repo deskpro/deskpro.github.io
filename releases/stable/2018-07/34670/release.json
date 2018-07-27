@@ -1,0 +1,19 @@
+{
+    "id": "34670",
+    "name": "2018.2.1.34670",
+    "date": "2018-07-27 16:25:25",
+    "track": "stable",
+    "commit": "878655b678c7d6e3e460854e03dea163b0d0c507",
+    "detail_url": "https://deskpro.github.io/releases/stable/2018-07/34670/release.json",
+    "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/2018.2.1.34670/deskpro.zip",
+    "filesize": 218390560,
+    "flags": [
+        "auto_enabled"
+    ],
+    "checksums": {
+        "crc32": "d61d8d93",
+        "md5": "2815fd86450212eb3c8e0860d2f4ff3c",
+        "sha1": "380e2e2a4f0ab3609a2dceba240169fa2bcaae04",
+        "sha256": "06970d66e0e7aee4174d6634eca8c72d99721d646b11c8362b622e1165cac8e7"
+    }
+}
