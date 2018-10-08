@@ -1,0 +1,19 @@
+{
+    "id": "35597",
+    "name": "35597",
+    "date": "2018-10-08 12:38:35",
+    "track": "stable",
+    "commit": "418bebeb9b134b4b4b855a79dc187441ab800118",
+    "detail_url": "https://deskpro.github.io/releases/stable/2018-10/35597/release.json",
+    "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/35597/deskpro.zip",
+    "filesize": 221202242,
+    "flags": [
+        "auto_enabled"
+    ],
+    "checksums": {
+        "crc32": "416fa7e2",
+        "md5": "3172f03acded415b837cd23055707268",
+        "sha1": "171b351b4d6c70323148cbe7de6f3cacbab812b0",
+        "sha256": "c1c9d783773f37306713efb42502772b0a1fd08f84bb40c597d9408615a229b2"
+    }
+}
