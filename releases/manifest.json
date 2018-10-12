@@ -1994,44 +1994,6 @@
                 "sha1": "f65aadc12e22e760eb0a4531c624c6e6cc31be0f",
                 "sha256": "ec150d8e53616b5ce7b7d6af163727e064021931c521b75093b2b0c82f591d5b"
             }
-        },
-        {
-            "id": "35669",
-            "name": "2018.3.35669",
-            "date": "2018-10-12 09:53:27",
-            "track": "stable",
-            "commit": "e08edce7cf0b944325260da28dea0af753474c71",
-            "detail_url": "https://deskpro.github.io/releases/stable/2018-10/35669/release.json",
-            "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/2018.3.35669/deskpro.zip",
-            "filesize": 224958909,
-            "flags": [
-                "auto_enabled"
-            ],
-            "checksums": {
-                "crc32": "29580824",
-                "md5": "87d793e48935ec64bf1c31fd258b50e1",
-                "sha1": "bfc6863782b3b4d564de088bc80414a48ccd46bb",
-                "sha256": "28d950781f693773bbfd5d0426f91090e473b4f69021495c0f6dd4eadacb786c"
-            }
-        },
-        {
-            "id": "35673",
-            "name": "2018.3.35673",
-            "date": "2018-10-12 11:01:12",
-            "track": "stable",
-            "commit": "9c74645e664b2cb2687050a876ae2a0c8dca2033",
-            "detail_url": "https://deskpro.github.io/releases/stable/2018-10/35673/release.json",
-            "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/2018.3.35673/deskpro.zip",
-            "filesize": 224959275,
-            "flags": [
-                "auto_enabled"
-            ],
-            "checksums": {
-                "crc32": "b61b3b9e",
-                "md5": "4cc85c7d497054f4365fa709313cc4c8",
-                "sha1": "02c7dc0debf343e8221b229c19f41907b0ba13c1",
-                "sha256": "8b4eed89d77d25f8e17768d9f333fc1f2b7e80b1f2a30a54a8a3631cb114ab0d"
-            }
         }
     ]
 }
