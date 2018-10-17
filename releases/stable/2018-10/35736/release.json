@@ -1,0 +1,19 @@
+{
+    "id": "35736",
+    "name": "2018.3.1.35736",
+    "date": "2018-10-17 10:04:57",
+    "track": "stable",
+    "commit": "bf1cd5bfb44a261cb72f4886c58b4c3ef1edd934",
+    "detail_url": "https://deskpro.github.io/releases/stable/2018-10/35736/release.json",
+    "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/2018.3.1.35736/deskpro.zip",
+    "filesize": 224935202,
+    "flags": [
+        "auto_enabled"
+    ],
+    "checksums": {
+        "crc32": "20277036",
+        "md5": "a494a01a1e53c54940d89ebc1e1c80b4",
+        "sha1": "711ec5d6907e0ef7ba9eb888a7af37e7130d2ad2",
+        "sha256": "5cb20ca303ee1a6f223b165f748fe2531e7fc0029c0d5af02ee0c380bcc87d5d"
+    }
+}
