@@ -1,0 +1,19 @@
+{
+    "id": "37224",
+    "name": "2019.2.3.37224",
+    "date": "2019-02-19 09:42:23",
+    "track": "stable",
+    "commit": "02d87bea716615013bde89faae385e09cc556a96",
+    "detail_url": "https://deskpro.github.io/releases/stable/2019-02/37224/release.json",
+    "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/2019.2.3.37224/deskpro.zip",
+    "filesize": 222428676,
+    "flags": [
+        "auto_enabled"
+    ],
+    "checksums": {
+        "crc32": "dbcf933e",
+        "md5": "bbc26c7a4beafd3e79682a151e189c60",
+        "sha1": "f909833b502e893e6ab7049f1d6298a648d0c28a",
+        "sha256": "22a3a3d50fc62908cc1614ffbc4afad54b739a3bb8bb1ab28bde6e2094347308"
+    }
+}
