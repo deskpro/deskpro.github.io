@@ -2317,6 +2317,25 @@
                 "sha1": "73ef75d3adb601974be65cb4b259082bfc58be85",
                 "sha256": "357193a1b39e24e1e0c22626dc8433ecc516623bc0ca676e84cbf025a969c47e"
             }
+        },
+        {
+            "id": "37620",
+            "name": "2019.3.1.37620",
+            "date": "2019-03-13 12:54:30",
+            "track": "stable",
+            "commit": "bcafe0b851914beb580189fc84686afc6dda9627",
+            "detail_url": "https://deskpro.github.io/releases/stable/2019-03/37620/release.json",
+            "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/2019.3.1.37620/deskpro.zip",
+            "filesize": 245545620,
+            "flags": [
+                "auto_enabled"
+            ],
+            "checksums": {
+                "crc32": "c48cac93",
+                "md5": "efb9235035cbc701dbcfce22ef9c7ecf",
+                "sha1": "91ef6b18f792871cef1553caf4cf0c56cd0d3185",
+                "sha256": "a6ceff919ba1bc22545a23351f4085deb8533480093ac39713a68458b9996707"
+            }
         }
     ]
 }
