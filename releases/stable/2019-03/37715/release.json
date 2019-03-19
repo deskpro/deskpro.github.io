@@ -1,0 +1,19 @@
+{
+    "id": "37715",
+    "name": "2019.3.3.37715",
+    "date": "2019-03-19 10:15:50",
+    "track": "stable",
+    "commit": "7dea2f775a23e8fccd470e4911b5ae9c6111956b",
+    "detail_url": "https://deskpro.github.io/releases/stable/2019-03/37715/release.json",
+    "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/2019.3.3.37715/deskpro.zip",
+    "filesize": 245491277,
+    "flags": [
+        "auto_enabled"
+    ],
+    "checksums": {
+        "crc32": "74498a4d",
+        "md5": "92d09987da2e02b541cfe1acee9aaa74",
+        "sha1": "6b719e5edb478527a9428b214fe24763a9fa664c",
+        "sha256": "c939e65ce48a8788720c64a88ba14b4ca051279bc23686028169fcc7cafc7103"
+    }
+}
