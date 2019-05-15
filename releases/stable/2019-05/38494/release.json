@@ -1,0 +1,19 @@
+{
+    "id": "38494",
+    "name": "2019.5.1.38494",
+    "date": "2019-05-15 11:34:28",
+    "track": "stable",
+    "commit": "e8eb3ce12725be514cc2f6828f107f050ba07e8a",
+    "detail_url": "https://deskpro.github.io/releases/stable/2019-05/38494/release.json",
+    "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/2019.5.1.38494/deskpro.zip",
+    "filesize": 248094833,
+    "flags": [
+        "auto_enabled"
+    ],
+    "checksums": {
+        "crc32": "5ad050be",
+        "md5": "cae5302bc978e2be12526a99a0c701c9",
+        "sha1": "aaac18dbd05f3ff3ecaf9b9a01645a15b2909ee2",
+        "sha256": "b53d88dba33aae3d09514e46740c06b2b25d460840d1ecb6fcadd4a05cb9b55f"
+    }
+}
