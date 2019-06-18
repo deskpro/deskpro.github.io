@@ -1,0 +1,19 @@
+{
+    "id": "38908",
+    "name": "2019.6.0.38908",
+    "date": "2019-06-18 09:28:46",
+    "track": "stable",
+    "commit": "a27f0d2094dae6efd3e563a53512d1ed11b95369",
+    "detail_url": "https://deskpro.github.io/releases/stable/2019-06/38908/release.json",
+    "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/2019.6.0.38908/deskpro.zip",
+    "filesize": 248950301,
+    "flags": [
+        "auto_enabled"
+    ],
+    "checksums": {
+        "crc32": "42adf632",
+        "md5": "d9d0ff79e4d84cdc49de3b306bd501cb",
+        "sha1": "eba9d5f4d8f8f73f4b24848fa8be53d484d9bd93",
+        "sha256": "c62342f0b08861990f896177aae9a31e14d2b85285325553633b0f160c219592"
+    }
+}
