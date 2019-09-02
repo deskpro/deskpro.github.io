@@ -1,0 +1,19 @@
+{
+    "id": "40032",
+    "name": "2019.7.0.40032",
+    "date": "2019-09-02 09:15:40",
+    "track": "stable",
+    "commit": "1324cacea3fe8b0f3e917ea901cf12f81d32ab48",
+    "detail_url": "https://deskpro.github.io/releases/stable/2019-09/40032/release.json",
+    "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/2019.7.0.40032/deskpro.zip",
+    "filesize": 254612041,
+    "flags": [
+        "auto_enabled"
+    ],
+    "checksums": {
+        "crc32": "d58f9d87",
+        "md5": "581f8d0e226d92113d978bf4d520ed29",
+        "sha1": "0dea29e8e6bdf40141d011ad81e60efa687c4bd8",
+        "sha256": "3ea8ec5aace78dbf5112bf04389d672c2df663026c14d9c90b69630316322c1b"
+    }
+}
