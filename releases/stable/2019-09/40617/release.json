@@ -1,0 +1,19 @@
+{
+    "id": "40617",
+    "name": "2019.8.0.40617",
+    "date": "2019-09-30 08:09:30",
+    "track": "stable",
+    "commit": "48c0a087fab1d44fe7574ba05c1dfd33aef87891",
+    "detail_url": "https://deskpro.github.io/releases/stable/2019-09/40617/release.json",
+    "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/2019.8.0.40617/deskpro.zip",
+    "filesize": 254737288,
+    "flags": [
+        "auto_enabled"
+    ],
+    "checksums": {
+        "crc32": "fde71d17",
+        "md5": "4605357197add0817da19f93c05cd36e",
+        "sha1": "8b9f9755a6f6e5c1c78a2aa9f8e34ca5422fe415",
+        "sha256": "28200321132602a1ab078a9edc8e50a70770617df55bdc5e7613c62196c8203b"
+    }
+}
