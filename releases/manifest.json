@@ -2773,6 +2773,25 @@
                 "sha1": "390f0cadca38668a03934c4bd003a40ea58988e0",
                 "sha256": "e25cdbaf636056d25a7589f2ad4e17f9cdff6724e6ec9b4d79af3321006d9619"
             }
+        },
+        {
+            "id": "41795",
+            "name": "2019.9.3.41795",
+            "date": "2019-12-16 09:57:28",
+            "track": "stable",
+            "commit": "b379b4c0c7ea3a712c1577e7e1530ebe0f08fc32",
+            "detail_url": "https://deskpro.github.io/releases/stable/2019-12/41795/release.json",
+            "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/2019.9.3.41795/deskpro.zip",
+            "filesize": 290950549,
+            "flags": [
+                "auto_enabled"
+            ],
+            "checksums": {
+                "crc32": "970ee6c",
+                "md5": "1f6ef41d71b48349cd11cbe9c3d16d21",
+                "sha1": "dc035295e246997ad99872a1bf661ef2a6948ac6",
+                "sha256": "872e387d232c935ca7154b7b35ad2e58f75809e940af9dc432588a4cd1703ae1"
+            }
         }
     ]
 }
