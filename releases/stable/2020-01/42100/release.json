@@ -1,0 +1,19 @@
+{
+    "id": "42100",
+    "name": "2019.9.1.42100",
+    "date": "2020-01-15 09:32:09",
+    "track": "stable",
+    "commit": "471b0967c0138b48e979829584ff7f32cb9216c0",
+    "detail_url": "https://deskpro.github.io/releases/stable/2020-01/42100/release.json",
+    "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/2019.9.1.42100/deskpro.zip",
+    "filesize": 287875063,
+    "flags": [
+        "auto_enabled"
+    ],
+    "checksums": {
+        "crc32": "9d758c6a",
+        "md5": "9fedcaecbaebc4ca4e84bf5530dbe356",
+        "sha1": "f3623fc3b052c38cb1a340e8a87f1fab093fd468",
+        "sha256": "c75ba11265f8140c8537a3ba2a5514c87a5b571c4d121c450c25a470ad5d76b1"
+    }
+}
