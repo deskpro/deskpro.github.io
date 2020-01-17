@@ -2811,6 +2811,25 @@
                 "sha1": "5d4b3c4221721b6e8d95f5b3e2dbb6aeba7b5848",
                 "sha256": "3d932a99af520e6c339780bb9947512fb91634918d52b773ececefeb0375f955"
             }
+        },
+        {
+            "id": "42136",
+            "name": "2019.9.4.42136",
+            "date": "2020-01-17 12:40:25",
+            "track": "stable",
+            "commit": "43d7d90749dcb3db00405c225dcbe9e325b44f06",
+            "detail_url": "https://deskpro.github.io/releases/stable/2020-01/42136/release.json",
+            "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/2019.9.4.42136/deskpro.zip",
+            "filesize": 287874665,
+            "flags": [
+                "auto_enabled"
+            ],
+            "checksums": {
+                "crc32": "f08df6fb",
+                "md5": "71ca89b47e64fee63d4c6d8c792387a8",
+                "sha1": "5a5ce10855a6f76f869c1034ac77935f076cf100",
+                "sha256": "b369f70afcdda86602a2ac9f5a4b1f8df9f9b6cd8a41b102c8f0c0c7f7ed78ee"
+            }
         }
     ]
 }
