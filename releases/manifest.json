@@ -2887,6 +2887,25 @@
                 "sha1": "15254e6769d8c258a307811ec6697b490427bb42",
                 "sha256": "78c741ddd7d79ee672c84971f58e880b5c397e7e6eab5c57bb806188ec317d25"
             }
+        },
+        {
+            "id": "43787",
+            "name": "2020.0.43787",
+            "date": "2020-03-20 14:32:46",
+            "track": "stable",
+            "commit": "ae92dad2de3bcc69df21a7ec82ae0cb87480b003",
+            "detail_url": "https://deskpro.github.io/releases/stable/2020-03/43787/release.json",
+            "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/2020.0.43787/deskpro.zip",
+            "filesize": 289995626,
+            "flags": [
+                "auto_enabled"
+            ],
+            "checksums": {
+                "crc32": "4559cf47",
+                "md5": "2dd0ee1969353262c5672ab910529ef4",
+                "sha1": "38c83c8725c158681b71829e2d5553b352f9c552",
+                "sha256": "7ddfa29cb7ff895ed33bf2074dcdcf8e8f3bef108619b3d6aa4fdcf76b5745f8"
+            }
         }
     ]
 }
