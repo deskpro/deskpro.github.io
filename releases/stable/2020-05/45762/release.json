@@ -1,0 +1,19 @@
+{
+    "id": "45762",
+    "name": "2020.1.3.45762",
+    "date": "2020-05-20 15:57:09",
+    "track": "stable",
+    "commit": "2f2f210df78edb79742d7cb115b2271e4b545a18",
+    "detail_url": "https://deskpro.github.io/releases/stable/2020-05/45762/release.json",
+    "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/2020.1.3.45762/deskpro.zip",
+    "filesize": 292833989,
+    "flags": [
+        "auto_enabled"
+    ],
+    "checksums": {
+        "crc32": "72c91d96",
+        "md5": "b0f0ee9821b4730e4a11357af9fc34a1",
+        "sha1": "044c93fc0600a2bbeb55f77263ab6ba5fd0b5183",
+        "sha256": "6f460fa5b3280944a4218fc896da0c0a6919d8fa477b5455c81e5f79f8149492"
+    }
+}
