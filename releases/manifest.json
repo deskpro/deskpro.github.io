@@ -3039,6 +3039,25 @@
                 "sha1": "bb19eda33c41affc62dd131d81a24d6ca5fdd2b4",
                 "sha256": "d1134a8b2ffa0a555ef4c17221b78f41132bb179c66b35b90fc9abdf2412e0d7"
             }
+        },
+        {
+            "id": "46872",
+            "name": "2020.1.4.46872",
+            "date": "2020-06-16 08:12:02",
+            "track": "stable",
+            "commit": "5dc89584245ab2388e565cc05541b3dbd74e768f",
+            "detail_url": "https://deskpro.github.io/releases/stable/2020-06/46872/release.json",
+            "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/2020.1.4.46872/deskpro.zip",
+            "filesize": 292866859,
+            "flags": [
+                "auto_enabled"
+            ],
+            "checksums": {
+                "crc32": "e89c8ee6",
+                "md5": "96835076fb08305ffc8aea8025dd2fe7",
+                "sha1": "b3c2ee5e8e49364ce68293606ff6e086a5c0e9c2",
+                "sha256": "640c98ae4ed5da4415c386f609f4401b5b0c2a4645926540c715065083ecf247"
+            }
         }
     ]
 }
