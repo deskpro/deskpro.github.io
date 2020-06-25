@@ -1,0 +1,19 @@
+{
+    "id": "47231",
+    "name": "2020.1.5.47231",
+    "date": "2020-06-24 13:52:22",
+    "track": "stable",
+    "commit": "76494e74f79672a9294fd5906681bf878f7d1fcf",
+    "detail_url": "https://deskpro.github.io/releases/stable/2020-06/47231/release.json",
+    "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/2020.1.5.47231/deskpro.zip",
+    "filesize": 292868704,
+    "flags": [
+        "auto_enabled"
+    ],
+    "checksums": {
+        "crc32": "79603568",
+        "md5": "94edb6db679a85791e2790605b874605",
+        "sha1": "0a69421755c0d0a9880a7e7c88db9e2002abef9b",
+        "sha256": "2e9e97ab370ba4c600d18796b00bf667da939e24c3fe6abe465e2b2a5e274659"
+    }
+}
