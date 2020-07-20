@@ -1,0 +1,19 @@
+{
+    "id": "48112",
+    "name": "2020.2.0.48112",
+    "date": "2020-07-20 14:15:16",
+    "track": "stable",
+    "commit": "8525d687d9f36cf52bbe858614dc85273db1860b",
+    "detail_url": "https://deskpro.github.io/releases/stable/2020-07/48112/release.json",
+    "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/2020.2.0.48112/deskpro.zip",
+    "filesize": 293939497,
+    "flags": [
+        "auto_enabled"
+    ],
+    "checksums": {
+        "crc32": "4a5e3004",
+        "md5": "2343e15d8e34f85c36748f7c842d61cc",
+        "sha1": "81d89e434aa062de686e9923a6005970eebc661d",
+        "sha256": "90c6915050cec78b40924a030ae8f034cf3048df87ef75d22d58dc0e8e0c5afd"
+    }
+}
