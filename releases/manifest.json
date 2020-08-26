@@ -3229,6 +3229,25 @@
                 "sha1": "1a7f1fc7652ee7b6837f093eb07fce944cbe84f8",
                 "sha256": "bf5695f5b719f1d1235d867510cb6fdd785b2fb8a527beb2e03dbc93199bd512"
             }
+        },
+        {
+            "id": "48433",
+            "name": "2020.2.5.48433",
+            "date": "2020-08-26 11:43:17",
+            "track": "stable",
+            "commit": "f7aa076660dae577c7e89ea1e370c53a92b609be",
+            "detail_url": "https://deskpro.github.io/releases/stable/2020-08/48433/release.json",
+            "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/2020.2.5.48433/deskpro.zip",
+            "filesize": 297637039,
+            "flags": [
+                "auto_enabled"
+            ],
+            "checksums": {
+                "crc32": "89b887b",
+                "md5": "401264fddf002010d09d935977a64331",
+                "sha1": "7308f93b9feef214607f54e588d5372d51e5e592",
+                "sha256": "3becc5226fb591ccc213a4391f38156eeee998311ae4836824d9557830acf1bc"
+            }
         }
     ]
 }
