@@ -1,0 +1,19 @@
+{
+    "id": "49460",
+    "name": "2020.2.6.49460",
+    "date": "2020-09-30 08:49:13",
+    "track": "stable",
+    "commit": "a363506b4f78c00590dc471f75d22f6870f5a55c",
+    "detail_url": "https://deskpro.github.io/releases/stable/2020-09/49460/release.json",
+    "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/2020.2.6.49460/deskpro.zip",
+    "filesize": 303647000,
+    "flags": [
+        "auto_enabled"
+    ],
+    "checksums": {
+        "crc32": "e5aa1b83",
+        "md5": "20f974a5ee68200f4f8ddf8117937ad9",
+        "sha1": "1988d32224c78beabcb0de01a6b40d94a3402ac9",
+        "sha256": "7b093ea5850db42413ee6ea6bccad878731bd16bf695fe702dc9fa3231493744"
+    }
+}
