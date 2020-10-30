@@ -1,0 +1,19 @@
+{
+    "id": "50355",
+    "name": "2020.2.10.50355",
+    "date": "2020-10-29 22:25:45",
+    "track": "stable",
+    "commit": "bb7a802c38d0288d18add57c01026e7788f33a7a",
+    "detail_url": "https://deskpro.github.io/releases/stable/2020-10/50355/release.json",
+    "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/2020.2.10.50355/deskpro.zip",
+    "filesize": 306792770,
+    "flags": [
+        "auto_enabled"
+    ],
+    "checksums": {
+        "crc32": "4dc8ad4f",
+        "md5": "8d45d014ce32f88fd5a0780a417b656d",
+        "sha1": "d71eb3d08dafb4198ff479da5c53d7039bbfe597",
+        "sha256": "fda85e9c43464ab56877862ba32e8f9a49e1b3cfe2446463cf520d7e38ba837f"
+    }
+}
