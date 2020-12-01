@@ -3400,6 +3400,25 @@
                 "sha1": "f2b2405b45322383303e1f7106f58b9d6c85bfcf",
                 "sha256": "e8d34292cf946f11e6ec980fe37da69abdaac3ba978cce040f6ed4402e852e86"
             }
+        },
+        {
+            "id": "50692",
+            "name": "2020.3.0",
+            "date": "2020-12-01 09:53:04",
+            "track": "stable",
+            "commit": "1f93dfcda31b424fa9579e0a8a87ad48fd59fdc8",
+            "detail_url": "https://deskpro.github.io/releases/stable/2020-12/50692/release.json",
+            "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/2020.3.0/deskpro.zip",
+            "filesize": 308730258,
+            "flags": [
+                "auto_enabled"
+            ],
+            "checksums": {
+                "crc32": "a055c62a",
+                "md5": "d4c1e9ef591acf2e7b46b17afda6d126",
+                "sha1": "75b36656b63da9839df6092ddb5bebaf9817b735",
+                "sha256": "5f247fa11f51790296af7e73d65b2b483f72b88fe382ed15e2ed9f795fb6f04c"
+            }
         }
     ]
 }
