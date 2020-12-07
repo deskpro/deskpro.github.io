@@ -1,0 +1,19 @@
+{
+    "id": "50740",
+    "name": "2020.3.50740",
+    "date": "2020-12-07 10:27:38",
+    "track": "stable",
+    "commit": "d1d5fabb6e008cc06da61d09da849dc00930379a",
+    "detail_url": "https://deskpro.github.io/releases/stable/2020-12/50740/release.json",
+    "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/2020.3.50740/deskpro.zip",
+    "filesize": 308728304,
+    "flags": [
+        "auto_enabled"
+    ],
+    "checksums": {
+        "crc32": "cdcd3489",
+        "md5": "b4e3f5f3fc5f2ed73fb3e0cb7bea527b",
+        "sha1": "89f7a9639e315b5410ece40e18195f12f64bd4af",
+        "sha256": "24e7be6d39a74dc34d988e49d7b64cab9e38163703395f79eafd51e2bd66d18d"
+    }
+}
