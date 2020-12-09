@@ -3400,44 +3400,6 @@
                 "sha1": "f2b2405b45322383303e1f7106f58b9d6c85bfcf",
                 "sha256": "e8d34292cf946f11e6ec980fe37da69abdaac3ba978cce040f6ed4402e852e86"
             }
-        },
-        {
-            "id": "50740",
-            "name": "2020.3.50740",
-            "date": "2020-12-07 10:27:38",
-            "track": "stable",
-            "commit": "d1d5fabb6e008cc06da61d09da849dc00930379a",
-            "detail_url": "https://deskpro.github.io/releases/stable/2020-12/50740/release.json",
-            "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/2020.3.50740/deskpro.zip",
-            "filesize": 308728304,
-            "flags": [
-                "auto_enabled"
-            ],
-            "checksums": {
-                "crc32": "cdcd3489",
-                "md5": "b4e3f5f3fc5f2ed73fb3e0cb7bea527b",
-                "sha1": "89f7a9639e315b5410ece40e18195f12f64bd4af",
-                "sha256": "24e7be6d39a74dc34d988e49d7b64cab9e38163703395f79eafd51e2bd66d18d"
-            }
-        },
-        {
-            "id": "50766",
-            "name": "2020.3.50766",
-            "date": "2020-12-09 11:49:34",
-            "track": "stable",
-            "commit": "5b023ac9b2e6a8231437f9237e31171f53cbc472",
-            "detail_url": "https://deskpro.github.io/releases/stable/2020-12/50766/release.json",
-            "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/2020.3.50766/deskpro.zip",
-            "filesize": 308728714,
-            "flags": [
-                "auto_enabled"
-            ],
-            "checksums": {
-                "crc32": "14e6c2d7",
-                "md5": "34528284fffe16ed057d150380ca090e",
-                "sha1": "789fb7ea7c23f6c7be0b0a3b2db7a7f8852ed551",
-                "sha256": "e821020ba5fe93378405cbe30dfc7a58d53686276a377480bdf6f40c6ba212a1"
-            }
         }
     ]
 }
