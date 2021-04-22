@@ -1,0 +1,19 @@
+{
+    "id": "51684",
+    "name": "2021.1.4.51684",
+    "date": "2021-04-21 10:42:47",
+    "track": "stable",
+    "commit": "511543cbc8d5bd54e65851bfbb6999d6967e2cae",
+    "detail_url": "https://deskpro.github.io/releases/stable/2021-04/51684/release.json",
+    "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/2021.1.4.51684/deskpro.zip",
+    "filesize": 308896437,
+    "flags": [
+        "auto_enabled"
+    ],
+    "checksums": {
+        "crc32": "604ef937",
+        "md5": "9d776f57267d165e9826bb14a64a9337",
+        "sha1": "93e93785fe67cf158a52d34878191773c2d659bd",
+        "sha256": "a53f2b2257fd082ae17380162ebe81b16f30280861d0f0a0222a02f19a77e1b7"
+    }
+}
