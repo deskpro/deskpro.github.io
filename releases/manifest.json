@@ -3533,6 +3533,25 @@
                 "sha1": "93e93785fe67cf158a52d34878191773c2d659bd",
                 "sha256": "a53f2b2257fd082ae17380162ebe81b16f30280861d0f0a0222a02f19a77e1b7"
             }
+        },
+        {
+            "id": "51917",
+            "name": "2021.1.5.51917",
+            "date": "2021-05-25 17:10:48",
+            "track": "stable",
+            "commit": "0735fe6d79ee60423e6bd984ef1cb562ce671ca1",
+            "detail_url": "https://deskpro.github.io/releases/stable/2021-05/51917/release.json",
+            "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/2021.1.5.51917/deskpro.zip",
+            "filesize": 313709229,
+            "flags": [
+                "auto_enabled"
+            ],
+            "checksums": {
+                "crc32": "51fce0a8",
+                "md5": "ba8675d7015dbce206704ac0363725ee",
+                "sha1": "24ac87bf243d7b055ba205a37125544552f5eed6",
+                "sha256": "f1c96cdb56b64670afd9fa02aa097b7e28f2d9ddf2f89cd1514a0ae9fcd04031"
+            }
         }
     ]
 }
