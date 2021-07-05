@@ -1,0 +1,19 @@
+{
+    "id": "52221",
+    "name": "2021.1.7.52221",
+    "date": "2021-07-05 16:52:45",
+    "track": "stable",
+    "commit": "a9aeaf0afada121144a8a579ab0f7670bc5ef457",
+    "detail_url": "https://deskpro.github.io/releases/stable/2021-07/52221/release.json",
+    "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/2021.1.7.52221/deskpro.zip",
+    "filesize": 314728041,
+    "flags": [
+        "auto_enabled"
+    ],
+    "checksums": {
+        "crc32": "d081e3c4",
+        "md5": "a85c8f9c66c44ea37bdc8f5d02a9cb3a",
+        "sha1": "7cd0133559c0f7837cdbe4f9226cccd15a45b938",
+        "sha256": "425faf66d0f594ee7b1b849b8a649f444ba5db417d81bca6a475015be841a372"
+    }
+}
