@@ -1,0 +1,19 @@
+{
+    "id": "52565",
+    "name": "2021.1.9.52565",
+    "date": "2021-09-02 10:00:52",
+    "track": "stable",
+    "commit": "dcc6f0dbc7b42a5366f489521348242a0754cd0b",
+    "detail_url": "https://deskpro.github.io/releases/stable/2021-09/52565/release.json",
+    "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/2021.1.9.52565/deskpro.zip",
+    "filesize": 314736863,
+    "flags": [
+        "auto_enabled"
+    ],
+    "checksums": {
+        "crc32": "192315bf",
+        "md5": "504598e197468ed0f367918931a3d701",
+        "sha1": "c321d8332ddd1e1ab9b6c36c12491215b6aa2ba5",
+        "sha256": "f971fb7da234f7f58becdb857990c2ec7e22fe27fa3750ba466c10d5081d80f4"
+    }
+}
