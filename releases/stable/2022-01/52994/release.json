@@ -1,0 +1,19 @@
+{
+    "id": "52994",
+    "name": "2022.0.0.52994",
+    "date": "2022-01-31 18:20:42",
+    "track": "stable",
+    "commit": "844d2a8fe39f2070a8b02aac26fa296bfe18f2cc",
+    "detail_url": "https://deskpro.github.io/releases/stable/2022-01/52994/release.json",
+    "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/2022.0.0.52994/deskpro.zip",
+    "filesize": 316306431,
+    "flags": [
+        "auto_enabled"
+    ],
+    "checksums": {
+        "crc32": "3b52b2f1",
+        "md5": "30243539bbae47523ce00dc9109632af",
+        "sha1": "d62e071bf428729bc744a5ddadc9a181f67531de",
+        "sha256": "3cc075907fdbdf1e399eb6fac9c33db0e3ab7b4c330e2926b736005a13fe6937"
+    }
+}
