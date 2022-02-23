@@ -3780,6 +3780,25 @@
                 "sha1": "d62e071bf428729bc744a5ddadc9a181f67531de",
                 "sha256": "3cc075907fdbdf1e399eb6fac9c33db0e3ab7b4c330e2926b736005a13fe6937"
             }
+        },
+        {
+            "id": "53075",
+            "name": "2022.0.1.53075",
+            "date": "2022-02-23 16:32:01",
+            "track": "stable",
+            "commit": "ef2f7bba7f717a8edaabdda0528c01facf3a204a",
+            "detail_url": "https://deskpro.github.io/releases/stable/2022-02/53075/release.json",
+            "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/2022.0.1.53075/deskpro.zip",
+            "filesize": 316309244,
+            "flags": [
+                "auto_enabled"
+            ],
+            "checksums": {
+                "crc32": "97c63d11",
+                "md5": "81bca190c0d064bcb2be72a12097a9bb",
+                "sha1": "868b21a857b2439d9abfe15df9d94558374298ae",
+                "sha256": "4fde78eef8e77b3840509d9d1b14bba90b7f3b1920ff61c673f89d0c8c2a0435"
+            }
         }
     ]
 }
