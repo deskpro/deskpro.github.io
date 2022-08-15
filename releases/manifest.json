@@ -3818,6 +3818,25 @@
                 "sha1": "f720310e1cddedeec6e33e5840d2baecf2e7ad79",
                 "sha256": "25cef83dfdcd9502a4d6369be693b60a07abf312b54d0fcec896f62f871540bd"
             }
+        },
+        {
+            "id": "53369",
+            "name": "53369",
+            "date": "2022-08-15 10:32:36",
+            "track": "stable",
+            "commit": "da476198c4e1392b4d81c8368f716fcbe52df05b",
+            "detail_url": "https://deskpro.github.io/releases/stable/2022-08/53369/release.json",
+            "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/53369/deskpro.zip",
+            "filesize": 316355320,
+            "flags": [
+                "auto_enabled"
+            ],
+            "checksums": {
+                "crc32": "3e2e5daa",
+                "md5": "18add46e181ffe84ff7ee1a7836ed479",
+                "sha1": "47d5e6df9f056963905e720a25d937e3ce0776c8",
+                "sha256": "f6a908013355620f7b1a44596c22a9611f2c4642ae72d45130be964acc9ae650"
+            }
         }
     ]
 }
