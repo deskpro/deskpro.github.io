@@ -3837,6 +3837,25 @@
                 "sha1": "70da3001ad13a60a497be0f5f209f9691469afb4",
                 "sha256": "1cebb174f93f07ed62c8829d1cd2941cf6200416414e623e753ff7d1f97aa925"
             }
+        },
+        {
+            "id": "53450",
+            "name": "2022.1.3.53450",
+            "date": "2022-10-10 09:49:42",
+            "track": "stable",
+            "commit": "c93321eb8390dcecd1def76b3ccfd0fcf52c6394",
+            "detail_url": "https://deskpro.github.io/releases/stable/2022-10/53450/release.json",
+            "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/2022.1.3.53450/deskpro.zip",
+            "filesize": 316354639,
+            "flags": [
+                "auto_enabled"
+            ],
+            "checksums": {
+                "crc32": "ecd02dba",
+                "md5": "5395af6fb4ffc0e53d976d3a2251ef62",
+                "sha1": "ea3c4dacf6d995e4fcb6de6a25b766757f2f2ff9",
+                "sha256": "52f5544b4cb3c9d73e80ae4728c12fa4d0467ed7b323e5228e1b6fd8e1d0158d"
+            }
         }
     ]
 }
