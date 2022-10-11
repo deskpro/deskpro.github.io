@@ -1,0 +1,19 @@
+{
+    "id": "53453",
+    "name": "2022.1.3.53453",
+    "date": "2022-10-10 14:56:14",
+    "track": "stable",
+    "commit": "8509b802b01686840b007991fc5465716b82db88",
+    "detail_url": "https://deskpro.github.io/releases/stable/2022-10/53453/release.json",
+    "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/2022.1.3.53453/deskpro.zip",
+    "filesize": 316355255,
+    "flags": [
+        "auto_enabled"
+    ],
+    "checksums": {
+        "crc32": "5801d908",
+        "md5": "8cd735d5a72408bb657d046432c95f0f",
+        "sha1": "4c21398ef4c26eaee90104a7b5d12030c022c705",
+        "sha256": "72a9e1929e97d530b8ce75819c7fef764ef138889b0aa7d46bcfb8aa20bc5085"
+    }
+}
