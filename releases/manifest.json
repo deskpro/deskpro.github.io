@@ -3951,6 +3951,25 @@
                 "sha1": "b760cb498f836169633751bf59dd20e73f08a762",
                 "sha256": "31860e2481499c445bf48ff71e6eaa575bdadc9861e38d10bf0ac906b74a103f"
             }
+        },
+        {
+            "id": "53701",
+            "name": "2023.0.53701",
+            "date": "2023-05-10 18:43:09",
+            "track": "stable",
+            "commit": "c700b8688013b21bb425970cb1ed053028aab56f",
+            "detail_url": "https://deskpro.github.io/releases/stable/2023-05/53701/release.json",
+            "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/2023.0.53701/deskpro.zip",
+            "filesize": 316523038,
+            "flags": [
+                "auto_enabled"
+            ],
+            "checksums": {
+                "crc32": "ba903ba2",
+                "md5": "7287e34fedea3a266e7fd791fe96872e",
+                "sha1": "e6d8c22e0811b027a34f87f67b925efb00e3e944",
+                "sha256": "a53620a714b0c016c35f4f0b40f7f6d77fd2f10d886ee03a92a3d6aea7fb3ffa"
+            }
         }
     ]
 }
