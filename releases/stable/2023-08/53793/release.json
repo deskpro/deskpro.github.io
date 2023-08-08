@@ -1,0 +1,19 @@
+{
+    "id": "53793",
+    "name": "2023.0.4.53793",
+    "date": "2023-08-07 12:06:00",
+    "track": "stable",
+    "commit": "b39c83ed8dc26408a60acce5da2cbf9e0dcd4714",
+    "detail_url": "https://deskpro.github.io/releases/stable/2023-08/53793/release.json",
+    "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/2023.0.4.53793/deskpro.zip",
+    "filesize": 316526015,
+    "flags": [
+        "auto_enabled"
+    ],
+    "checksums": {
+        "crc32": "4ac282d8",
+        "md5": "6b5b168f71093ee9d7d17b6e77d86587",
+        "sha1": "5e002865752f216ca10eedb8ca555ff71dc83d04",
+        "sha256": "1ab4068f0efd374a127620f8d3cb2a713d621aae7a38073cd271e6845578bfd3"
+    }
+}
