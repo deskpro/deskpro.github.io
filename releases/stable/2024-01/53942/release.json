@@ -1,0 +1,19 @@
+{
+    "id": "53942",
+    "name": "2024.0.0.53942",
+    "date": "2024-01-19 16:28:30",
+    "track": "stable",
+    "commit": "cf80a6256f43d2a3cba1283dca47c334bac18c19",
+    "detail_url": "https://deskpro.github.io/releases/stable/2024-01/53942/release.json",
+    "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/2024.0.0.53942/deskpro.zip",
+    "filesize": 316538465,
+    "flags": [
+        "auto_enabled"
+    ],
+    "checksums": {
+        "crc32": "f9d6fd16",
+        "md5": "9838a9efa520533234ed7a77e8e73a95",
+        "sha1": "3e1a005816f4b82c539bb7589da1cf08961919de",
+        "sha256": "f436da00dd0ad5afd727ea2fd8930552a9a3cae2d836194b1eff376be6832339"
+    }
+}
