@@ -1,0 +1,19 @@
+{
+    "id": "54086",
+    "name": "2023.0.5.54086",
+    "date": "2024-06-11 13:40:20",
+    "track": "stable",
+    "commit": "a4d65e2ef886ab4604ff7d3e0c19643e95665b84",
+    "detail_url": "https://deskpro.github.io/releases/stable/2024-06/54086/release.json",
+    "zip_url": "https://github.com/DeskPRO/deskpro.github.io/releases/download/2023.0.5.54086/deskpro.zip",
+    "filesize": 316530475,
+    "flags": [
+        "auto_enabled"
+    ],
+    "checksums": {
+        "crc32": "b9e5cb83",
+        "md5": "0c9634112c22383868a8a7b60448c44f",
+        "sha1": "21443db17e5ac703ce019f4f3deb5e13668f76b5",
+        "sha256": "f6aab55515ec2c341f487512d73c206aba99fbebd708e0353854782a990c3468"
+    }
+}
